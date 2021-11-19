@@ -1,3 +1,4 @@
+Done
 # Lab 2: Manage Linux VMs with the Azure CLI
 
 1. Create resource group
